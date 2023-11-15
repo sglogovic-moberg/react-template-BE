@@ -5951,11 +5951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Silvio\\source\\repos\\ReactAppBackend\\ReactAppBackend.csproj",
+      "projectUniqueName": "C:\\Users\\Silvio\\Documents\\GitHub\\react-template-BE\\ReactAppBackend.csproj",
       "projectName": "ReactAppBackend",
-      "projectPath": "C:\\Users\\Silvio\\source\\repos\\ReactAppBackend\\ReactAppBackend.csproj",
+      "projectPath": "C:\\Users\\Silvio\\Documents\\GitHub\\react-template-BE\\ReactAppBackend.csproj",
       "packagesPath": "C:\\Users\\Silvio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Silvio\\source\\repos\\ReactAppBackend\\obj\\",
+      "outputPath": "C:\\Users\\Silvio\\Documents\\GitHub\\react-template-BE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Silvio\\AppData\\Roaming\\NuGet\\NuGet.Config",

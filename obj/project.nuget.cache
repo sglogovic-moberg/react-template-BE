@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2yd0DfOOsKAUstT86mg+5e4bg2wQFzqMMBFlnxSVlnRE7EE69NQ6cWz20o+dhBDFdJ06cOxkF7A/wHQE42agUw==",
+  "dgSpecHash": "EPSuqvEcGVYUwDFuy+4XA1sSc1WJXh7nhKHw7orH1jWD6/LQW8VUj+uRto5m+EbqJJ0djOEqiWriMumNvr7B9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Silvio\\source\\repos\\ReactAppBackend\\ReactAppBackend.csproj",
+  "projectFilePath": "C:\\Users\\Silvio\\Documents\\GitHub\\react-template-BE\\ReactAppBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Silvio\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\Silvio\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

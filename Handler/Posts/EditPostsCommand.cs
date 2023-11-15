@@ -18,6 +18,11 @@ namespace ReactAppBackend.Handler.Posts
                 .Where(x => x.Id == request.Id)
                 .FirstOrDefault();
 
+            if (post == null)
+            {
+                throw new ArgumentException("Post not found");
+            }
+
             post.Title = request.Title;
             post.Description = request.Description;
 
